@@ -1,0 +1,16 @@
+{
+  "name": "xAutolink",
+  "version": "0.0.1",
+  "description": "replace urls in text with links in a minimal, modern footprint",
+  "main": "xAutolink.js",
+  "repository": "https://github.com/xaddict/xAutolink",
+  "author": "Luuk Lamers <darklightdusk@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vite": "^5.2.11",
+    "vitest": "^1.6.0"
+  }
+}
