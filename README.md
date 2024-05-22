@@ -1,2 +1,6 @@
 # xAutolink
-autolink-js using modern js
+[autolink-js](https://github.com/bryanwoods/autolink-js) using modern js
+
+```
+xAutolink(input, options)
+```
