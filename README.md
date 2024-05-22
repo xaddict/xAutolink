@@ -5,7 +5,7 @@ Replaces URLs in text with links
 
 ## Usage
 ```
-import xAutolink from 'xAutolink'
+import xAutolink from 'xautolink'
 
 xAutolink(text, options)
 ```

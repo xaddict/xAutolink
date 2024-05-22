@@ -1,5 +1,5 @@
 {
-	"name": "xAutolink",
+	"name": "xautolink",
 	"version": "0.0.1",
 	"description": "replace urls in text with links in a minimal, modern footprint",
 	"main": "xAutolink.js",
