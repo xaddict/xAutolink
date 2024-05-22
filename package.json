@@ -1,6 +1,6 @@
 {
 	"name": "xautolink",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "replace urls in text with links in a minimal, modern footprint",
 	"main": "xAutolink.js",
 	"repository": "https://github.com/xaddict/xAutolink",
