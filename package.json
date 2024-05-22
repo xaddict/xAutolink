@@ -1,27 +1,28 @@
 {
-  "name": "xAutolink",
-  "version": "0.0.1",
-  "description": "replace urls in text with links in a minimal, modern footprint",
-  "main": "xAutolink.js",
-  "repository": "https://github.com/xaddict/xAutolink",
-  "author": "Luuk Lamers <oghqdmfg@duck.com>",
-  "keywords": [
-    "autolink",
-    "xAutolink"
-  ],
-  "license": "MIT",
-  "scripts": {
-    "test": "vitest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xaddict/xAutolink.git"
-  },
-  "bugs": {
-    "url": "https://github.com/xaddict/xAutolink/issues"
-  },
-  "devDependencies": {
-    "vite": "^5.2.11",
-    "vitest": "^1.6.0"
-  }
+	"name": "xAutolink",
+	"version": "0.0.1",
+	"description": "replace urls in text with links in a minimal, modern footprint",
+	"main": "xAutolink.js",
+	"repository": "https://github.com/xaddict/xAutolink",
+	"author": "Luuk Lamers <oghqdmfg@duck.com>",
+	"keywords": [
+		"autolink",
+		"xAutolink"
+	],
+	"files": ["xAutolink.js", "README.md"],
+	"license": "MIT",
+	"scripts": {
+		"test": "vitest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xaddict/xAutolink.git"
+	},
+	"bugs": {
+		"url": "https://github.com/xaddict/xAutolink/issues"
+	},
+	"devDependencies": {
+		"vite": "^5.2.11",
+		"vitest": "^1.6.0"
+	}
 }
