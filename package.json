@@ -4,10 +4,21 @@
   "description": "replace urls in text with links in a minimal, modern footprint",
   "main": "xAutolink.js",
   "repository": "https://github.com/xaddict/xAutolink",
-  "author": "Luuk Lamers <darklightdusk@gmail.com>",
+  "author": "Luuk Lamers <oghqdmfg@duck.com>",
+  "keywords": [
+    "autolink",
+    "xAutolink"
+  ],
   "license": "MIT",
   "scripts": {
     "test": "vitest"
+  },
+  "repository": {
+    "type" "git",
+    "url": "git+https://github.com/xaddict/xAutolink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xaddict/xAutolink/issues"
   },
   "devDependencies": {
     "vite": "^5.2.11",
