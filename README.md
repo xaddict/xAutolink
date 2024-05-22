@@ -7,7 +7,7 @@ Replaces URLs in text with links
 ```
 import xAutolink from 'xAutolink'
 
-xAutolink(input, options)
+xAutolink(text, options)
 ```
 
 ## Options
