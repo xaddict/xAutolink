@@ -5,6 +5,8 @@ Replaces URLs in text with links
 
 ## Usage
 ```
+import xAutolink from 'xAutolink'
+
 xAutolink(input, options)
 ```
 
