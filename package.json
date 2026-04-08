@@ -22,7 +22,7 @@
 		"url": "https://github.com/xaddict/xAutolink/issues"
 	},
 	"devDependencies": {
-		"vite": "^5.2.11",
+		"vite": "^6.4.2",
 		"vitest": "^1.6.0"
 	}
 }
